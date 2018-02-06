@@ -1,0 +1,34 @@
+# Config
+cfg/
+
+# Node_Modules
+node_modules/
+
+# Components
+src/
+
+# Test
+test/
+
+# babel Config
+.babelrc
+
+# ESLint
+.editorconfig
+.eslintrc
+
+# gitignore
+.gitignore
+
+# npmignore
+.npmignore
+
+# yo
+.yo-rc.json
+
+# test
+jest.json
+
+# Server
+server.js
+webpack.config.js
